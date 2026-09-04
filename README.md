@@ -19,10 +19,10 @@ _GitHub Advanced Security · 1일 과정_
 
 | 랩 | 다루는 곳 | 시작 |
 | --- | --- | --- |
-| A · 세 제품군 한 바퀴 | 모듈 1 / 도메인 1 | [gh500-security-suites-tour](https://github.com/mct-gh/gh500-security-suites-tour) |
-| B · CodeQL 데이터베이스 | 모듈 5 / 도메인 4 | [gh500-codeql-database](https://github.com/mct-gh/gh500-codeql-database) |
-| C · 거버넌스 배포 | 모듈 7 / 도메인 6 | [gh500-governance-rollout](https://github.com/mct-gh/gh500-governance-rollout) |
-| D · 알림 분류 | 도메인 5 | [gh500-alert-triage](https://github.com/mct-gh/gh500-alert-triage) |
+| A · 세 제품군 한 바퀴 | 모듈 1 / 도메인 1 | [gh-500-security-suites-tour](https://github.com/mct-gh/gh-500-security-suites-tour) |
+| B · CodeQL 데이터베이스 | 모듈 5 / 도메인 4 | [gh-500-codeql-database](https://github.com/mct-gh/gh-500-codeql-database) |
+| C · 거버넌스 배포 | 모듈 7 / 도메인 6 | [gh-500-governance-rollout](https://github.com/mct-gh/gh-500-governance-rollout) |
+| D · 알림 분류 | 도메인 5 | [gh-500-alert-triage](https://github.com/mct-gh/gh-500-alert-triage) |
 
 ## 실습 전 준비
 
